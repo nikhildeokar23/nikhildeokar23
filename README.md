@@ -1,6 +1,6 @@
 👋 Hello, I'm Nikhil Deokar
 
-🌐 Full Stack Developer | 🚀Passionate about crafting digital experiences.
+🌐 Full Stack Web Developer | 🚀Passionate about crafting digital experiences.
 
 📌 About Me : Self-organized and detail-oriented fresh graduate with BE in Information And Technology  Engineering, enthusiastic about contributing knowledge of programming languages and technical skills.
 
@@ -12,4 +12,4 @@
 
 🤝 Let's Connect I'm always eager to connect with fellow developers, tech enthusiasts, and anyone interested in web development. Don't hesitate to reach out, and let's embark on a coding journey together!
 
-📫 Contact Me : 📧 Email: nikhildeokar1111@gmail.com 💼 LinkedIn: www.linkedin.com/in/nikhildeokar23
+📫 Contact Me : 📧 Email: nikhildeokar1111@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/nikhildeokar23/
