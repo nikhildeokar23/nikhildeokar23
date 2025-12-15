@@ -1,6 +1,6 @@
 👋 Hello, I'm Nikhil Deokar
 
-🌐 Full Stack Web Developer | 🚀Passionate about crafting digital experiences.
+🌐 Full Stack Java Developer | 🚀Passionate about crafting digital experiences.
 
 📌 About Me : Self-organized and detail-oriented fresh graduate with BE in Information And Technology  Engineering, enthusiastic about contributing knowledge of programming languages and technical skills.
 
